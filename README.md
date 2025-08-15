@@ -1,4 +1,4 @@
-# CARS ML Project
+# Calories Prediction ML Project
 
 ## Overview
 This project is a machine learning application that predicts calories burned based on exercise duration, pulse, and maximum pulse. The project utilizes a linear regression model to make predictions and visualize the results. A Streamlit web interface is provided for interactive usage.
@@ -18,7 +18,7 @@ The following Python packages are used in this project:
    ```
 2. Navigate to the project directory:
    ```
-   cd CARS ML
+   cd Calries_prediction_ML
    ```
 3. Ensure you have the required libraries installed. You can install them using pip:
    ```
