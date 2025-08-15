@@ -18,7 +18,7 @@ The following Python packages are used in this project:
    ```
 2. Navigate to the project directory:
    ```
-   cd Calries_prediction_ML
+   cd Calories_prediction_ML
    ```
 3. Ensure you have the required libraries installed. You can install them using pip:
    ```
